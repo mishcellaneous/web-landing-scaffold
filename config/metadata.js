@@ -18,11 +18,12 @@ module.exports = {
     'traditional chinese medicine',
     'tcm',
     'confinement diet',
-   'new mom gift',
+    'new mom gift',
     'ayurveda',
     'ayurvedic',
     'new born',
   ],
+  twitter: '', // leave this empty to skip it!
   lang: 'en',
   image: {
     src: '/images/site.png', // Path to your image you placed in the 'static' folder
